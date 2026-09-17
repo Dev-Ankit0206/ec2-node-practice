@@ -1,0 +1,13 @@
+{
+  "name": "ec2-node-practice",
+  "version": "1.0.0",
+  "description": "Beginner Node.js application for GitHub and AWS EC2 deployment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
